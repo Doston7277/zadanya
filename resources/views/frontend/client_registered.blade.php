@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" type="text/css" href="DataTables/dataTables.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.1/css/jquery.dataTables.css">
 
     <title>Ro'yxatdan o'tgan mijozlar</title>
 </head>
@@ -45,8 +45,7 @@
     </tbody>
 </table>
 
-<script type="text/javascript" src="jQuery/jquery-3.3.1.js"></script>
-<script type="text/javascript" src="DataTables/dataTables.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.1/js/jquery.dataTables.js"></script>
 
 <script>
 $(document).ready( function () {
