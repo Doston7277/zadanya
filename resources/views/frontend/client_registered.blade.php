@@ -45,7 +45,7 @@
     </tbody>
 </table>
 
-<script type="text/javascript" src="jQuery-3.3.1/jquery-3.3.1.js"></script>
+<script type="text/javascript" src="jQuery/jquery-3.3.1.js"></script>
 <script type="text/javascript" src="DataTables/dataTables.js"></script>
 
 <script>
